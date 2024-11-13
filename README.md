@@ -1,0 +1,1 @@
+All files for the final data science project. Includes absenteeism data, Jupyter notebooks from pre-processing to the final ML model. Pickled files for exporting to create a module. Importing the module to a new dataset, then the final Tableau workbook for visualization.
